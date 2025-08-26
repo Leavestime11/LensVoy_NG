@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+:root{
+    --theme-one:#ffeb87;
+    --theme-two:#f8d586;
+    --theme-three:#eee5da;
+    --theme-four:#8a6244;
+    --theme-five:#242014;
+
+    --theme-withe:#fff;
+
+    --theme-black:#000;
+
+    --theme-radius:8px;
+    --theme-margin:20px;
+}
